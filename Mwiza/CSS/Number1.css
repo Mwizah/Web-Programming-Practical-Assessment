@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    padding: 5px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.container{
+    width: fit-content;
+    background-color: gainsboro;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.icon{
+    background-color: #ffffff;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin: 10px;
+}
+#twitter{
+    color: rgb(13, 142, 216);
+}
+#facebook{
+    color: darkblue;
+}
+#google{
+    color: red;
+}
